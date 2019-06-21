@@ -1,0 +1,87 @@
+Luke Skywalker, 172, male
+C-3PO, 167, n/a
+R2-D2, 96, n/a
+Darth Vader, 202, male
+Leia Organa, 150, female
+Owen Lars, 178, male
+Beru Whitesun lars, 165, female
+R5-D4, 97, n/a
+Biggs Darklighter, 183, male
+Obi-Wan Kenobi, 182, male
+Anakin Skywalker, 188, male
+Wilhuff Tarkin, 180, male
+Chewbacca, 228, male
+Han Solo, 180, male
+Greedo, 173, male
+Jabba Desilijic Tiure, 175, hermaphrodite
+Wedge Antilles, 170, male
+Jek Tono Porkins, 180, male
+Yoda, 66, male
+Palpatine, 170, male
+Boba Fett, 183, male
+IG-88, 200, none
+Bossk, 190, male
+Lando Calrissian, 177, male
+Lobot, 175, male
+Ackbar, 180, male
+Mon Mothma, 150, female
+Arvel Crynyd, unknown, male
+Wicket Systri Warrick, 88, male
+Nien Nunb, 160, male
+Qui-Gon Jinn, 193, male
+Nute Gunray, 191, male
+Finis Valorum, 170, male
+Jar Jar Binks, 196, male
+Roos Tarpals, 224, male
+Rugor Nass, 206, male
+Ric Olié, 183, male
+Watto, 137, male
+Sebulba, 112, male
+Quarsh Panaka, 183, male
+Shmi Skywalker, 163, female
+Darth Maul, 175, male
+Bib Fortuna, 180, male
+Ayla Secura, 178, female
+Dud Bolt, 94, male
+Gasgano, 122, male
+Ben Quadinaros, 163, male
+Mace Windu, 188, male
+Ki-Adi-Mundi, 198, male
+Kit Fisto, 196, male
+Eeth Koth, 171, male
+Adi Gallia, 184, female
+Saesee Tiin, 188, male
+Yarael Poof, 264, male
+Plo Koon, 188, male
+Mas Amedda, 196, male
+Gregar Typho, 185, male
+Cordé, 157, female
+Cliegg Lars, 183, male
+Poggle the Lesser, 183, male
+Luminara Unduli, 170, female
+Barriss Offee, 166, female
+Dormé, 165, female
+Dooku, 193, male
+Bail Prestor Organa, 191, male
+Jango Fett, 183, male
+Zam Wesell, 168, female
+Dexter Jettster, 198, male
+Lama Su, 229, male
+Taun We, 213, female
+Jocasta Nu, 167, female
+Ratts Tyerell, 79, male
+R4-P17, 96, female
+Wat Tambor, 193, male
+San Hill, 191, male
+Shaak Ti, 178, female
+Grievous, 216, male
+Tarfful, 234, male
+Raymus Antilles, 188, male
+Sly Moore, 178, female
+Tion Medon, 206, male
+Finn, unknown, male
+Rey, unknown, female
+Poe Dameron, unknown, male
+BB8, unknown, none
+Captain Phasma, unknown, female
+Padmé Amidala, 165, female
